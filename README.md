@@ -15,7 +15,7 @@ This project is a 3D scene created as part of my computational graphics coursewo
 The complete project files are split into parts due to size constraints. Follow the instructions below to access the full project:
 
 1. **Download All Parts**:
-   - [3D_Project_Part.zip.001](https://github.com/yourusername/your-repo-name/raw/main/3D_Project_Part.zip.001)
+   - [3D_Project_Part.zip.001](https://github.com/ZGood74/CS-330-Module-8-3-Journal/blob/main/3D_Project_Part.zip.001)
    - [3D_Project_Part.zip.002](https://github.com/yourusername/your-repo-name/raw/main/3D_Project_Part.zip.002)
    - *(Add any additional parts here if there are more)*
 
